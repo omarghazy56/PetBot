@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Project Overview](#overview)
 2. [Data](#Data)
+3. [Model](#Model)
 4. [Features](#Features)
 5. [Technologies Used](#Technologies-Used)
 6. [Installation](#Installation)
@@ -16,6 +17,9 @@
    - Dog Facts, The Pet Parent's A-to-Z Home Care Encyclopedia
    - Veterinary Clinical Pathology - A Case-Based Approach
    More data will be added soon...
+
+## Model
+   You can find chatbot through [Here](#https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
 
 ## Features
 - Answers questions about pet care, food, and play styles
