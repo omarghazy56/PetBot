@@ -19,7 +19,7 @@
    More data will be added soon...
 
 ## Model
-   You can find chatbot through [Here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
+   You can find Llama2 through [Here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
 
 ## Features
 - Answers questions about pet care, food, and play styles
@@ -28,6 +28,7 @@
 
 ## Technologies Used
 - **Backend:** Python, Flask
+- **Model:** Llama2
 - **Deployment:** Python everywhere
 
 ## Installation
